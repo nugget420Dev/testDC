@@ -1,2 +1,0 @@
-map:
-  hover: "%{name}\nPoints: %{points}\nJoueur: %{player}\nAlliance: %{alliance}"
